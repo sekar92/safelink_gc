@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2017/10/toto-nee-chan-2016.html"}
 if(x=="2"){xxx="/2017/10/kahogo-no-kahoko-2017.html"}
 if(x=="3"){xxx="/2017/11/tokyo-sentimental-2016.html"}
 if(x=="4"){xxx="/2017/11/enka-gold-rush-2015.html"}
-if(x=="5"){xxx="/2017/11/keishichou-ikimono-gakari-2017.html"}a_to_ve[i].href="http://sl2.goldenchoco.web.id"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/11/keishichou-ikimono-gakari-2017.html"}a_to_ve[i].href="https://sl2.goldenchoco.web.id"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
